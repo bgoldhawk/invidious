@@ -9,6 +9,9 @@ then to run the application run
 
 ```
 crystal run src/your_app.cr
+
+crystal run src/invidious.cr 
+
 ```
 
 <div align="center">
