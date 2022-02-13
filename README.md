@@ -1,3 +1,16 @@
+
+# Development Environment
+
+In visual studio code, run in remote container. In a new container run 
+
+```Shards install``
+
+then to run the application run
+
+```
+crystal run src/your_app.cr
+```
+
 <div align="center">
   <img src="assets/invidious-colored-vector.svg" width="192" height="192" alt="Invidious logo">
   <h1>Invidious</h1>
